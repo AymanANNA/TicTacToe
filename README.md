@@ -41,6 +41,6 @@ Contributions are what make the open-source community such an amazing place to l
 ## Screenshots
 Here are some screenshots of the Tic Tac Toe game in action:
 
-![Game Start](path/to/game_start.png)
-![Game Play](path/to/game_play.png)
-![Game End](path/to/game_end.png)
+![Game Start](./images/game_start.png)
+
+![Game End](./images/game_end.png)
